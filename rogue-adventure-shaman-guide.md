@@ -24,7 +24,7 @@ Finally I do not take into account when the cards are unlocked, if you haven't u
 ## Some important tricks to know
 
 When starting a run, you can pick the map you want while keeping your starting bonus. Before you pick your starting bonus, try looking in the background to see if it's the map you want. If not, kill the app and re-open it, then start a new run instead of continuing. Your starting bonus will still be offered in the new run.
-On very high Infernos (30+) this is a must, as you likely won't be able to survive two consecutive battles before the first Merchant.
+dfOn very high Infernos (30+) this is a must, as you likely won't be able to survive two consecutive battles before the first Merchant.
 There are two maps which have a merchant after the first fight (they are very similar).
 
 You can restart a fight. Quit from the menu and select continue to restart the fight from the beginning.
